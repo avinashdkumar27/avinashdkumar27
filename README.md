@@ -36,5 +36,6 @@
 ### 📬 Connect with Me
 
 - 💌 Email: **avinashdkumar27@gmail.com**
+-    Mobile No. : **9123436616**
 - 🧑‍💼 LinkedIn: [linkedin.com/in/avinash-dkumar](www.linkedin.com/in/avinash-dkumar)
 - 🐱 GitHub: [github.com/avinashdkumar27](https://github.com/avinashdkumar27)
