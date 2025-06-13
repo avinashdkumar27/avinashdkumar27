@@ -9,7 +9,7 @@
 - 🔐 Cybersecurity is my passion – I’m diving deep into Ethical Hacking & Digital Forensics!
 - ⚙️ I love building tools like **Password Managers** and dream of making my own **AI Assistant like JARVIS**
 - 📚 Currently learning **Operating Systems**, **Python**, and **Ethical Hacking**
-- 🎮 Gamer at heart (BGMI 🔥), music lover (Yo Yo Honey Singh 💿), spiritual traveler (Kedarnath 🕉️)
+- 🎮 Gamer at heart (BGMI 🔥), music lover (Yo Yo Honey Singh 💿)
 
 ---
 
